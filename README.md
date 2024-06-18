@@ -7,8 +7,6 @@ Teamwork is crucial to me because working harmoniously as a team enhances the su
 To continually develop myself, I utilize various resources. I closely follow documentation and online sources to stay updated on the latest developments and updates in technologies. Additionally, I practice on projects and participate in various programming events to enhance my skills.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AliRizaAynaci&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AliRizaAynaci&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizaAynaci&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
