@@ -1,6 +1,9 @@
-Hello! I'm Ali Rıza Aynacı, a student passionate about software development. Currently, during my education, I'm gaining experience in programming languages such as Java, Python, and C++, with a particular interest in web development and backend projects.
+### Hello!
+I'm Ali Rıza Aynacı, a student passionate about software development. Currently, during my education, I'm gaining experience in programming languages such as Java, Python, and C++, with a particular interest in web development and backend projects.
 
-I'm working on improving my skills in Spring Boot and other backend technologies, striving to acquire in-depth knowledge in this field. When faced with challenges during project work, I prefer to think solution-oriented. I analyze problems, evaluate different solution options, and collaborate with teammates to find the most suitable solution.
+I'm working on improving my skills in Spring Boot and other backend technologies, striving to acquire in-depth knowledge in this field. Recently, I have also started learning about software architecture, which has broadened my understanding of how to design robust and scalable systems.
+
+When faced with challenges during project work, I prefer to think solution-oriented. I analyze problems, evaluate different solution options, and collaborate with teammates to find the most suitable solution.
 
 Teamwork is crucial to me because working harmoniously as a team enhances the success of projects. Trust, communication, and solidarity among team members lay the foundation for successful projects.
 
