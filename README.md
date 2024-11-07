@@ -1,19 +1,45 @@
-### Hello!
-I'm Ali Rıza Aynacı, a student passionate about software development. Currently, during my education, I'm gaining experience in programming languages such as Java, Python, and C++, with a particular interest in web development and backend projects.
+### Hello! 👋
+I'm **Ali Rıza Aynacı**, a Computer Engineering student with a deep passion for **software development**, particularly in **backend technologies**. I specialize in creating **scalable** and **efficient systems** with **Java**, **Spring Boot**, and have a keen interest in **software architecture**.
 
-I'm working on improving my skills in Spring Boot and other backend technologies, striving to acquire in-depth knowledge in this field. Recently, I have also started learning about software architecture, which has broadened my understanding of how to design robust and scalable systems.
+With a solution-oriented approach, I enjoy analyzing complex problems, exploring diverse solutions, and collaborating with teammates to deliver optimal results. I believe that **teamwork** is a cornerstone of success—effective **communication**, **trust**, and **unity** are the key elements to achieving goals together.
 
-When faced with challenges during project work, I prefer to think solution-oriented. I analyze problems, evaluate different solution options, and collaborate with teammates to find the most suitable solution.
-
-Teamwork is crucial to me because working harmoniously as a team enhances the success of projects. Trust, communication, and solidarity among team members lay the foundation for successful projects.
-
-To continually develop myself, I utilize various resources. I closely follow documentation and online sources to stay updated on the latest developments and updates in technologies. Additionally, I practice on projects and participate in various programming events to enhance my skills.
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizaAynaci&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+To stay on top of the ever-evolving tech world, I actively engage with the latest **documentation**, **online resources**, and **hands-on projects**. I also participate in programming events to enhance my skills and contribute to the developer community.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AliRizaAynaci&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 💻 **Tech Stack:**
+<div>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+</div>
+
+---
+
+### 📲 **Profiles:**
+<div>
+  <a href="https://www.linkedin.com/in/AliRizaAynaci" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/AliRiza" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+</div>
+
+---
+
+### 📊 **GitHub Stats:**
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizaAynaci&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+### 💬 **Visitor Count**:
+![Visitor Count](https://visitcount.itsvg.in/api?id=AliRizaAynaci&icon=0&color=0)
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
