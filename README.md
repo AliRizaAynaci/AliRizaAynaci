@@ -28,6 +28,14 @@ To stay on top of the ever-evolving tech world, I actively engage with the lates
   </a>
 </div>
 
+---
+
+### 📊 **GitHub Stats:**
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizaAynaci&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
 
 
 ### 💬 **Visitor Count**:
