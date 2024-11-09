@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hello! 👋<br>I'm Ali Rıza Aynacı, a Computer Engineering student at Erciyes University. After spending two years in Electrical and Electronics Engineering, I decided to transition to Computer Engineering to pursue my passion for software development. Since switching to the English-medium program, I completed a year of preparatory English education and am now continuing my studies in my third year.<br><br>I'm focused on backend technologies and have been working on various projects to improve my technical skills while contributing to the software industry. Using tools like Java and Spring Boot, I have developed projects involving RESTful APIs and user authorization.<br><br>I'm continuously learning and aiming to contribute to future projects, improving both my knowledge and skills in the ever-evolving field of software development.
 
 ## 🌐 Socials:
