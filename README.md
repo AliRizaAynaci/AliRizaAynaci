@@ -43,8 +43,7 @@ I constantly improve myself by working on real-world projects, optimizing perfor
 ---
 
 ### 🐍 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/<AliRizaAynaci>/<AliRizaAynaci>/output/github-snake.svg)
-
+![snake gif](https://github.com/AliRizaAynaci/AliRizaAynaci/blob/output/github-snake.svg)
 
 ---
 
