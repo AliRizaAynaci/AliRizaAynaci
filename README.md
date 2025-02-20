@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I'm Ali Rıza Aynacı 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=Backend+Developer+|+Software+Engineer;Algorithm+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=Backend+Developer+|+Software+Engineer;Curious+about+Algorithms+and+System+Design" />
 </p>
 
 ---
 
 ## 🚀 About Me
-🎓 I'm a passionate **Computer Engineering** student specializing in **backend development and system architecture**.  
-💡 My journey started in **Electrical & Electronics Engineering**, but I found my true passion in **software development**.
+🎓 I'm a **computer engineering student** who enjoys exploring **backend development and system design**.  
+💡 I started in **Electrical & Electronics Engineering**, but over time, I became more interested in **software development**.  
 
-I am particularly interested in:
+I like learning and working on:
 - 🚀 **Scalable backend systems**
 - 🏗 **Microservices & API design**
-- ⚡ **High-performance distributed systems**
-- 🛠 **DevOps practices & CI/CD**
+- ⚡ **High-performance and efficient applications**
+- 🛠 **DevOps basics & CI/CD pipelines**  
 
-I continuously enhance my skills by working on real-world projects and implementing **best practices**.
+I enjoy improving my skills by building projects, solving problems, and trying out new technologies.
 
 ---
 
