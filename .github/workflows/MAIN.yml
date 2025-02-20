@@ -2,7 +2,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # Her 6 saatte bir çalışır
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -25,7 +24,7 @@ jobs:
             dist/github-snake-dark.svg
         env:
           SNAKE_COLOR: "#ffffff"
-          BACKGROUND_COLOR: "#000000"
+          BACKGROUND_COLOR: "#0d1117" # GitHub Dark Mode Rengi
 
       - name: Show status
         run: git status
