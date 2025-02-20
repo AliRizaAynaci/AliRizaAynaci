@@ -33,12 +33,20 @@ I constantly improve myself by working on real-world projects, optimizing perfor
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/AliRizaAynaci">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizaAynaci&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AliRizaAynaci&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   </a>
   <a href="https://github.com/AliRizaAynaci">
-    <img src="https://github-readme-stats.vercel.app/api?username=AliRizaAynaci&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRizaAynaci&theme=tokyonight&hide_border=true" width="48%" />
   </a>
 </p>
+
+### 🔥 **Recent Activity**
+<p align="center">
+  <a href="https://github.com/AliRizaAynaci">
+    <img src="https://activity-graph.herokuapp.com/graph?username=AliRizaAynaci&theme=react-dark" />
+  </a>
+</p>
+
 
 ---
 
