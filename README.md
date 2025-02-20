@@ -49,7 +49,6 @@ I constantly improve myself by working on real-world projects, optimizing perfor
        alt="snake gif" />
 </div>
 
-
 ---
 
 ## 🌍 Let's Connect!
