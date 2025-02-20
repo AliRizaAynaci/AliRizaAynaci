@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Ali Rıza Aynacı 👋</h1>
 <p align="center">
-  <em>Backend Developer | Software Engineer | Tech Enthusiast</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=Backend+Developer+|+Software+Engineer;Algorithm+Enthusiast" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I'm a passionate **Computer Engineering** student with a strong focus on **backend development and system architecture**. My journey started in Electrical & Electronics Engineering but evolved into software development, where I specialize in **Java, Spring Boot, Go, Docker, and PostgreSQL**.
+🎓 I'm a passionate **Computer Engineering** student specializing in **backend development and system architecture**.  
+💡 My journey started in **Electrical & Electronics Engineering**, but I found my true passion in **software development**.
 
 I am particularly interested in:
 - 🚀 **Scalable backend systems**
@@ -14,38 +15,33 @@ I am particularly interested in:
 - ⚡ **High-performance distributed systems**
 - 🛠 **DevOps practices & CI/CD**
 
-I constantly improve myself by working on real-world projects, optimizing performance, and implementing best practices.
+I continuously enhance my skills by working on real-world projects and implementing **best practices**.
 
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23FFB13B.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,go,cpp,docker,postgres,linux,redis" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<div align="center">
   <a href="https://github.com/AliRizaAynaci">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizaAynaci&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
   </a>
   <a href="https://github.com/AliRizaAynaci">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRizaAynaci&theme=tokyonight&hide_border=true" width="48%" />
   </a>
-</p>
+</div>
 
 ---
 
-<td>
-    <h2>🐍 Contribution Graph</h2>
-      <img src="https://github.com/AliRizaAynaci/AliRizaAynaci/blob/output/github-snake-dark.svg" width="100%" />
-</td>
+<h2 align="center">🐍 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github.com/AliRizaAynaci/AliRizaAynaci/blob/output/github-snake-dark.svg" width="100%" />
+</p>
 
 ---
 
