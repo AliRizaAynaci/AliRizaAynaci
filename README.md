@@ -1,33 +1,73 @@
-Hello! 👋<br>I'm Ali Rıza Aynacı, a Computer Engineering student at Erciyes University. After spending two years in Electrical and Electronics Engineering, I decided to transition to Computer Engineering to pursue my passion for software development. Since switching to the English-medium program, I completed a year of preparatory English education and am now continuing my studies in my third year.<br><br>I'm focused on backend technologies and have been working on various projects to improve my technical skills while contributing to the software industry. Using tools like Java and Spring Boot, I have developed projects involving RESTful APIs and user authorization.<br><br>I'm continuously learning and aiming to contribute to future projects, improving both my knowledge and skills in the ever-evolving field of software development.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alirizaaynaci) &nbsp;
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aynacialiriza) &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AliRiza/)
-
-
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23FFB13B.svg?style=plastic&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white)
-
-## 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizaAynaci&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px"/>
-    </td>
-    <td style="padding-left: 20px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRizaAynaci&theme=github_dark&hide_border=false" height="180px"/>
-    </td>
-  </tr>
-</table>
-
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h1 align="center">Hi, I'm Ali Rıza Aynacı 👋</h1>
+<p align="center">
+  <em>Backend Developer | Software Engineer | Tech Enthusiast</em>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AliRizaAynaci&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+I'm a passionate **Computer Engineering** student with a strong focus on **backend development and system architecture**. My journey started in Electrical & Electronics Engineering but evolved into software development, where I specialize in **Java, Spring Boot, Go, Docker, and PostgreSQL**.
+
+I am particularly interested in:
+- 🚀 **Scalable backend systems**
+- 🏗 **Microservices & API design**
+- ⚡ **High-performance distributed systems**
+- 🛠 **DevOps practices & CI/CD**
+
+I constantly improve myself by working on real-world projects, optimizing performance, and implementing best practices.
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23FFB13B.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/AliRizaAynaci">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizaAynaci&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  </a>
+  <a href="https://github.com/AliRizaAynaci">
+    <img src="https://github-readme-stats.vercel.app/api?username=AliRizaAynaci&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Graph (Snake Animation)
+<p align="center">
+  <img src="https://github.com/AliRizaAynaci/AliRizaAynaci/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌍 Let's Connect!
+<p align="center">
+  <a href="https://linkedin.com/in/alirizaaynaci">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@aynacialiriza">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/AliRiza/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://github.com/AliRizaAynaci">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✍️ Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
