@@ -28,24 +28,36 @@ I enjoy improving my skills by building projects, solving problems, and trying o
 
 ## 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/AliRizaAynaci">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizaAynaci&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-  </a>
-  <a href="https://github.com/AliRizaAynaci">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRizaAynaci&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizaAynaci&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRizaAynaci&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 </div>
 
 ---
 
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center">📄 My Resume</h2>
+
 <p align="center">
-  <img src="https://github.com/AliRizaAynaci/AliRizaAynaci/blob/output/github-snake-dark.svg" width="100%" />
+  Here’s a quick way to view or download my most up-to-date resume.
+  <br />
+  If you're curious about my experience, skills, and projects in a more formal layout—check it out!
+</p>
+
+<p align="center">
+  <a href="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/AliRizaAynaciResume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-%23121011?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliRizaAynaci&theme=github-dark&hide_border=true" />
+</p>
 
-## 🌍 Let's Connect!
+
+---
+
+## 🌐 Profiles
 <p align="center">
   <a href="https://linkedin.com/in/alirizaaynaci">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
