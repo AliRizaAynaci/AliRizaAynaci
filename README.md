@@ -74,6 +74,8 @@ I enjoy improving my skills by building projects, solving problems, and trying o
   <a href="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/AliRizaAynaciResume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-%23121011?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
+  </br>
+  📌 Last updated: July 2025
 </p>
 
 ## 📈 Contributions
