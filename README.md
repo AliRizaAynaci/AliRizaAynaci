@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=Backend+Developer+|+Software+Engineer;Curious+about+Algorithms+and+System+Design" />
 </p>
 
----
 
 ## 🚀 About Me
 🎓 I'm a **computer engineering student** who enjoys exploring **backend development and system design**.  
@@ -17,14 +16,43 @@ I like learning and working on:
 
 I enjoy improving my skills by building projects, solving problems, and trying out new technologies.
 
----
-
 ## 🛠 Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,go,cpp,docker,postgres,linux,redis" />
+
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=go" width="50" /><br><b>Go</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=java" width="50" /><br><b>Java</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=spring" width="50" /><br><b>Spring Boot</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=cpp" width="50" /><br><b>C++</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=docker" width="50" /><br><b>Docker</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=postgres" width="50" /><br><b>PostgreSQL</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=redis" width="50" /><br><b>Redis</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=linux" width="50" /><br><b>Linux</b>
+    </td>
+  </tr>
+</table>
+
 </div>
 
----
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -33,9 +61,8 @@ I enjoy improving my skills by building projects, solving problems, and trying o
 </div>
 </div>
 
----
 
-<h2 align="center">📄 My Resume</h2>
+## 📄 My Resume 
 
 <p align="center">
   Here’s a quick way to view or download my most up-to-date resume.
@@ -49,13 +76,13 @@ I enjoy improving my skills by building projects, solving problems, and trying o
   </a>
 </p>
 
----
+## 📈 Contributions
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliRizaAynaci&theme=github-dark&hide_border=true" />
 </p>
 
 
----
 
 ## 🌐 Profiles
 <p align="center">
@@ -73,7 +100,6 @@ I enjoy improving my skills by building projects, solving problems, and trying o
   </a>
 </p>
 
----
 
 ### ✍️ Quote of the Day
 <p align="center">
