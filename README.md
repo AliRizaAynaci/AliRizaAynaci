@@ -80,9 +80,7 @@ I enjoy improving my skills by building projects, solving problems, and trying o
 
 ## 📈 Contributions
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliRizaAynaci&theme=github-dark&hide_border=true" />
-</p>
+![Snake animation](https://github.com/AliRizaAynaci/AliRizaAynaci/blob/output/dist/github-snake-dark.svg?raw=true)
 
 
 
