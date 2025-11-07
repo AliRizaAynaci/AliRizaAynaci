@@ -80,7 +80,7 @@ I enjoy improving my skills by building projects, solving problems, and trying o
 
 ## 📈 Contributions
 
-![Snake animation](https://github.com/AliRizaAynaci/AliRizaAynaci/blob/output/dist/github-snake-dark.svg?raw=true)
+![Snake animation](https://github.com/AliRizaAynaci/AliRizaAynaci/blob/output/github-snake-dark.svg)
 
 
 
