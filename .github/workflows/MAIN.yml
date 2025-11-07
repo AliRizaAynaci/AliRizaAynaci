@@ -1,8 +1,7 @@
 # Workflow Adı: GitHub Actions sekmesinde bu isimle görünecek.
 name: Generate Snake Graph
 
-# Çalışma Zamanlaması:
-# Her 6 saatte bir çalışır. (cron: "0 */6 * * *")
+# Çalışma Zamanlaması: Her 6 saatte bir çalışır.
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -18,39 +17,43 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      # 1. Repoyu Çekme (output dalına yayınlamak için dosyalara erişim sağlar)
+      # 1. Repoyu Çekme
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      # 2. Snake SVG'yi Oluşturma (Doğru Dark Mode Teması ile)
-      - name: Generate Snake SVG (Dark Mode)
-        # svg-only@v3 versiyonunu kullanıyoruz.
+      # 2. Snake SVG'yi Oluşturma (KESİN Dark Mode Teması ile)
+      - name: Generate Snake SVG (True Dark Mode)
         uses: Platane/snk/svg-only@v3
         with:
-          # Kullanıcı Adı: Repo sahibini otomatik çeker.
           github_user_name: ${{ github.repository_owner }}
-          
-          # Çıktı Yolu: Dosyayı dist/ klasörüne kaydediyoruz.
           outputs: dist/github-snake-dark.svg
           
-          # TEMA AYARLARI (GÖRSEL PROBLEMLERİ GİDERMEK İÇİN GÜNCELLENDİ)
-          # theme: Temanın adını doğrudan kullanmak en basiti.
-          theme: "dark"
-          # palette: Tema içindeki boş/dolu kare renk paletini ayarlar.
-          # (boş kare: dark background, az katkı: middle, çok katkı: bright)
-          palette: "0d1117,161b22,216e39,30a14e,39d353" 
-          # Bu palet, boş kareleri GitHub'ın koyu arkaplan rengiyle (0d1117) doldurur.
+          # ----------------------------------------------------
+          # KESİN DARK MODE AYARLARI (GÖRSEL SORUNUNU GİDERİR)
+          # ----------------------------------------------------
+          theme: "dark" # Genel dark mode temasını ayarlar
+          
+          # ARKA PLAN RENGİ: Tüm grafiğin arka planını GitHub koyu moduna getirir.
+          background_color: "#0d1117" 
+          
+          # YILANIN RENGİ: Yılanın kendisinin rengi (GitHub yeşili tonu).
+          snake_color: "#39d353" 
+          
+          # KATKISIZ NOKTALARIN RENGİ: Boş karelerin rengini belirler.
+          # GitHub Dark mode'daki daha koyu gri tonlarından biri.
+          color_dots: "#161b22" 
+          
+          # OPSİYONEL: Katkı seviyelerine göre diğer renkler (daha detaylı kontrol için)
+          # palette: "0d1117,161b22,216e39,30a14e,39d353" # Boş, az, orta, çok katkı renkleri
+          # Bu parametreleri yukarıdaki background_color ve color_dots daha belirleyici olduğu için
+          # şimdilik tek tek renklerle ayarladım.
+          # İsterseniz palette ile de oynayabilirsiniz, ancak genellikle background_color ve color_dots yeterlidir.
 
       # 3. Yalnızca Dağıtım (Output Dalına Yayınlama)
-      # ad-m/github-push-action adımını atlıyoruz, çünkü bu adım gereksizdi ve 
-      # zaten Crazy-Max action'ı ile çıkışı output dalına yayımlıyoruz.
-      
       - name: Deploy to GitHub Pages (Output Branch)
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          # Yayınlanacak dal: output
           target_branch: output
-          # Yayınlanacak içerik: dist klasörünün tamamı
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
