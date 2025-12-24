@@ -62,27 +62,6 @@ I enjoy improving my skills by building projects, solving problems, and trying o
 </div>
 
 
-## 📄 My Resume 
-
-<p align="center">
-  Here’s a quick way to view or download my most up-to-date resume.
-  <br />
-  If you're curious about my experience, skills, and projects in a more formal layout—check it out!
-</p>
-
-<p align="center">
-  <a href="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/AliRizaAynaciResume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-%23121011?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-  </br>
-  📌 Last updated: October 2025
-</p>
-
-## 📈 Contributions
-
-![Snake animation](https://github.com/AliRizaAynaci/AliRizaAynaci/blob/output/github-snake-dark.svg)
-
-
 
 ## 🌐 Profiles
 <p align="center">
@@ -94,9 +73,6 @@ I enjoy improving my skills by building projects, solving problems, and trying o
   </a>
   <a href="https://leetcode.com/u/AliRiza/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://github.com/AliRizaAynaci">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
