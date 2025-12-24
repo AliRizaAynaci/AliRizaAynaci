@@ -18,9 +18,10 @@
 
 <br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=AliRizaAynaci&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="AliRizaAynaci trophies" />
+<a href="https://github.com/AliRizaAynaci">
+  <img src="https://github-profile-trophy.vercel.app/?username=AliRizaAynaci&..." />
 </a>
+
 
 <br/><br/>
 
