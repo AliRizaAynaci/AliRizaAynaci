@@ -43,7 +43,7 @@
 
 <br/>
 
-<h2 align="center">🛠 Technical Arsenal</h2>
+<h2 align="center">🛠 Technical Skills</h2>
 
 <div align="center">
 
@@ -72,10 +72,10 @@
 
   <br/>
   <a href="https://leetcode.com/u/AliRiza/">
-    <img src="https://leetcard.jacoblin.cool/AliRiza?theme=tokyonight&font=Fira%20Code&ext=heatmap" width="85%" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/AliRiza?theme=tokyonight&font=Fira%20Code&ext=heatmap" width="400" alt="LeetCode Stats" />
   </a>
 
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRizaAynaci&theme=tokyonight&hide_border=true&bg_color=0D1117" width="85%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRizaAynaci&theme=tokyonight&hide_border=true&bg_color=0D1117" width="600" alt="GitHub Streak" />
 
 </div>
