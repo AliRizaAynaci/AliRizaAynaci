@@ -76,6 +76,6 @@
   </a>
 
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRizaAynaci&theme=tokyonight&hide_border=true&bg_color=0D1117" width="600" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRizaAynaci&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" alt="GitHub Streak" />
 
 </div>
