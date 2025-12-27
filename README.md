@@ -1,6 +1,6 @@
-<!-- Header Animation -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Ali%20Rıza%20Aynacı&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Go&descAlignY=55&descSize=18" />
+  <h1>Ali Rıza Aynacı</h1>
+  <h3>Backend Engineer | Distributed Systems | Go</h3>
 </div>
 
 <!-- Quick Links -->
@@ -61,7 +61,7 @@ func main() {
         Focus:      []string{
             "Backend Development",
             "System Design",
-            "API Development",
+            "Data Structures and Algorithms",
         },
     }
     me.BuildAwesomeThings()
@@ -77,18 +77,23 @@ func main() {
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3z2destination76&rid=giphy.gif" width="30"> &nbsp;Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" height="55"/>
+  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" alt="Fiber" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="Redis" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Kafka" height="55"/>
+  <img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="Next.js" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="Heroku" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="Vercel" height="55"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -115,8 +120,4 @@ func main() {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
-</div>
