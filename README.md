@@ -79,33 +79,6 @@ const aliRiza = {
 
 <br/>
 
----
-
-<br/>
-
-## � Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-  <a href="https://github.com/AliRizaAynaci/gorl">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AliRizaAynaci&repo=gorl&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="GoRL" />
-  </a>
-</td>
-<td width="50%">
-  <h3><a href="https://github.com/AliRizaAynaci/gorl">GoRL</a></h3>
-  <p><strong>High-Performance Rate Limiter Library for Go</strong></p>
-  <p>⭐ 97 stars | 🍴 4 forks | 📦 Production-ready</p>
-  <p>A modular rate limiting library supporting Fixed Window, Sliding Window, Token Bucket, and Leaky Bucket algorithms. Features in-memory and Redis backends with observability metrics.</p>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 ---
 
