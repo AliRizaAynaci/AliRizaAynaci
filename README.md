@@ -39,36 +39,17 @@
 <!-- About Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+## 🚀 About Me
+🎓 I'm a **computer engineering student** who enjoys exploring **backend development and system design**.  
+💡 I started in **Electrical & Electronics Engineering**, but over time, I became more interested in **software development**.  
 
-```go
-package main
+I like learning and working on:
+- 🧠 **Data Structures & Algorithms**
+- 🏛 **System Design**
+- 🌐 **Distributed Systems**
+- ⚙️ **Backend Development** 
 
-type Engineer struct {
-    Name       string
-    Role       string
-    University string
-    Languages  []string
-    Focus      []string
-}
-
-func main() {
-    me := Engineer{
-        Name:       "Ali Rıza Aynacı",
-        Role:       "Backend Engineer",
-        University: "Erciyes University '27",
-        Languages:  []string{"Go", "Java", "C++"},
-        Focus:      []string{
-            "Backend Development",
-            "System Design",
-            "Data Structures and Algorithms",
-        },
-    }
-    me.BuildAwesomeThings()
-}
-```
-
-<br clear="right"/>
+I enjoy improving my skills by building projects, solving problems, and trying out new technologies.
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
