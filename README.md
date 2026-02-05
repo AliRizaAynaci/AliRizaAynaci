@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ali Rıza Aynacı</h1>
-  <h3>Backend Engineer | Distributed Systems | Go</h3>
+  <h3>Backend Developer | Distributed Systems | Go</h3>
 </div>
 
 <!-- Quick Links -->
@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&height=50&lines=Go+Developer;Backend+Engineer;Algorithm+Enthusiast;Erciyes+University+'27" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&height=50&lines=Go+Developer;Backend+Developer;Algorithm+Enthusiast;Erciyes+University+'27" />
 </div>
 
 <br/>
