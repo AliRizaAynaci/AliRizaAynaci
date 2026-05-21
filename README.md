@@ -1,8 +1,3 @@
-<div align="center">
-  <h1>Ali Rıza Aynacı</h1>
-</div>
-
-
 <!-- Tech Stack -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3z2destination76&rid=giphy.gif" width="30"> &nbsp;Tech Stack
 
