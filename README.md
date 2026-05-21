@@ -12,13 +12,10 @@
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Kafka" height="55"/>
   <img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="Next.js" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="Heroku" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="Vercel" height="55"/>
 </p>
 
 <!-- GitHub Stats -->
