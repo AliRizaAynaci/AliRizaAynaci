@@ -49,13 +49,15 @@
 
 <div align="center">
   <img width="49%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.languages.svg" alt="most used languages"/>
-  <a href="https://github.com/AliRizaAynaci/gorl">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AliRizaAynaci&repo=gorl&theme=react&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&icon_color=3fb950&border_radius=6" alt="gorl"/>
-  </a>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliRizaAynaci&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" alt="streak stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.isocalendar.svg" alt="contribution calendar"/>
+  <a href="https://github.com/AliRizaAynaci/gorl">
+    <img src="https://img.shields.io/badge/gorl-open%20source-3fb950?style=flat-square&logo=go&logoColor=white&labelColor=0d1117" alt="gorl"/>
+  </a>
+  <img src="https://img.shields.io/github/stars/AliRizaAynaci/gorl?style=flat-square&color=3fb950&labelColor=0d1117" alt="stars"/>
+  <span>&nbsp;modular Go rate limiting library</span>
 </div>
