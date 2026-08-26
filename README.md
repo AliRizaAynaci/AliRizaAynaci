@@ -29,24 +29,12 @@
 
 <br/>
 
-<!-- ─────────────────────────────  OPEN SOURCE  ──────────────────────────── -->
-
-## `~/open-source`
-
-<div align="center">
-  <a href="https://github.com/AliRizaAynaci/gorl">
-    <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AliRizaAynaci&repo=gorl&theme=react&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&icon_color=3fb950&border_radius=6" alt="gorl"/>
-  </a>
-</div>
-
-<br/>
-
 <!-- ─────────────────────────────  GITHUB STATS  ─────────────────────────── -->
 
 ## `~/stats`
 
 <div align="center">
-  <img width="80%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.overview.svg" alt="overview"/>
+  <img width="100%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.overview.svg" alt="overview"/>
 </div>
 
 <br/>
@@ -59,5 +47,8 @@
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.habits.svg" alt="coding habits"/>
+  <img width="49%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.habits.svg" alt="coding habits"/>
+  <a href="https://github.com/AliRizaAynaci/gorl">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AliRizaAynaci&repo=gorl&theme=react&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&icon_color=3fb950&border_radius=6" alt="gorl"/>
+  </a>
 </div>
