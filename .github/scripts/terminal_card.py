@@ -72,7 +72,7 @@ def fetch():
         f"""
         query {{
           user(login: "{USER}") {{
-            repositoriesContributedTo(contributionTypes: [COMMIT]) {{ totalCount }}
+            repositoriesContributedTo(contributionTypes: [COMMIT], includeUserRepositories: true) {{ totalCount }}
             pullRequests {{ totalCount }}
             issues {{ totalCount }}
             issueComments {{ totalCount }}
