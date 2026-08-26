@@ -19,7 +19,7 @@
 
 <!-- ─────────────────────────────  TECH STACK  ───────────────────────────── -->
 
-## `~/tech-stack`
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,kubernetes,aws,docker,linux,githubactions,prometheus,grafana&theme=dark&perline=8" />
@@ -38,19 +38,10 @@
 
 <br/>
 
-<!-- ─────────────────────────────  GITHUB STATS  ─────────────────────────── -->
+<!-- ─────────────────────────────  LANGUAGES  ─────────────────────────── -->
 
-## `~/stats`
+## Most Used Languages
 
 <div align="center">
-<table><tr>
-<td valign="top" width="55%">
-<img src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.terminal.svg" alt="overview"/>
-</td>
-<td valign="top" width="45%">
-<img src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/languages.svg" alt="most used languages"/>
-</td>
-</tr></table>
-
-<img width="80%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.calendar.svg" alt="contributions"/>
+  <img width="60%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.languages.svg" alt="most used languages"/>
 </div>
