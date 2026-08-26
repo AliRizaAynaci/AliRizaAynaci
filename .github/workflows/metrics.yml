@@ -47,6 +47,19 @@ jobs:
         with:
           ref: main
 
+      - name: debug repositoriesContributedTo
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          gh api graphql -f query='
+          query {
+            user(login: "AliRizaAynaci") {
+              a: repositoriesContributedTo(contributionTypes: [COMMIT]) { totalCount }
+              b: repositoriesContributedTo(contributionTypes: [COMMIT], includeUserRepositories: true) { totalCount }
+              d: repositoriesContributedTo(includeUserRepositories: true) { totalCount }
+            }
+          }'
+
       - name: generate terminal card
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
