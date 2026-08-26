@@ -4,8 +4,10 @@ on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
 
 jobs:
   metrics:
@@ -18,19 +20,21 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AliRizaAynaci
-          filename: metrics.overview.svg
-          base: header, activity, community, repositories
+          filename: metrics.terminal.svg
+          template: terminal
+          base: header, activity, repositories
           config_timezone: Europe/Istanbul
-          extras_css: &theme |
-            svg {
-              font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
-              background: #0d1117;
-              color: #8b949e;
-            }
-            h1, h2, h3 { color: #3fb950; }
-            .field svg { fill: #8b949e; }
-            .field.language.details small, .gauge .title, .h-details { color: #6e7681; }
-            .label { background-color: #3fb95020; color: #3fb950; }
+
+      - name: isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: AliRizaAynaci
+          filename: metrics.isocalendar.svg
+          base: ""
+          config_theme: dark
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
       - name: languages
         uses: lowlighter/metrics@latest
@@ -39,11 +43,9 @@ jobs:
           user: AliRizaAynaci
           filename: metrics.languages.svg
           base: ""
+          config_theme: dark
           plugin_languages: yes
           plugin_languages_details: percentage, lines
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
           plugin_languages_sections: most-used
           plugin_languages_colors: github
-          plugin_lines: yes
-          plugin_lines_sections: base
-          extras_css: *theme

@@ -42,22 +42,12 @@
 ## `~/stats`
 
 <div align="center">
-  <img width="480" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.overview.svg" alt="overview"/>
+  <img width="80%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.terminal.svg" alt="overview"/>
 </div>
 
 <br/>
 
 <div align="center">
+  <img width="49%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.isocalendar.svg" alt="contribution calendar"/>
   <img width="49%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.languages.svg" alt="most used languages"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliRizaAynaci&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" alt="streak stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/AliRizaAynaci/gorl">
-    <img src="https://img.shields.io/badge/gorl-open%20source-3fb950?style=flat-square&logo=go&logoColor=white&labelColor=0d1117" alt="gorl"/>
-  </a>
-  <img src="https://img.shields.io/github/stars/AliRizaAynaci/gorl?style=flat-square&color=3fb950&labelColor=0d1117" alt="stars"/>
-  <span>&nbsp;modular Go rate limiting library</span>
 </div>
