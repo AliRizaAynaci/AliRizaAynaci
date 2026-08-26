@@ -29,10 +29,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD"/>
-  <img src="https://img.shields.io/badge/Fiber-00ACD7?style=flat-square&logo=go&logoColor=white" alt="Fiber"/>
-  <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Alertmanager"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" height="34"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" height="34"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" height="34"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" alt="Fiber" height="34"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" height="34"/>
 </p>
 
 <br/>
@@ -42,12 +47,6 @@
 ## `~/stats`
 
 <div align="center">
-  <img width="80%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.terminal.svg" alt="overview"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.isocalendar.svg" alt="contribution calendar"/>
-  <img width="49%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.languages.svg" alt="most used languages"/>
+  <img width="62%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.terminal.svg" alt="overview"/>
+  <img width="88%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.main.svg" alt="languages and contributions"/>
 </div>
