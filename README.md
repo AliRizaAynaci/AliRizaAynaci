@@ -43,6 +43,12 @@
 ## `~/stats`
 
 <div align="center">
-  <img width="62%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.terminal.svg" alt="overview"/>
-  <img width="88%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.main.svg" alt="languages and contributions"/>
+  <img width="480" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.terminal.svg" alt="terminal overview"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.languages.svg" alt="most used languages"/>
+  <img width="49%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.isocalendar.svg" alt="contribution calendar"/>
 </div>
