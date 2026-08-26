@@ -22,9 +22,17 @@
 ## `~/tech-stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,kubernetes,aws,docker,linux,githubactions,prometheus,grafana&theme=dark&perline=4" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka,mongodb,java,spring,cpp,git&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=go,kubernetes,aws,docker,linux,githubactions,prometheus,grafana&theme=dark&perline=8" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis,postgres,sqlite,git&theme=dark&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD"/>
+  <img src="https://img.shields.io/badge/Fiber-00ACD7?style=flat-square&logo=go&logoColor=white" alt="Fiber"/>
+  <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Alertmanager"/>
 </p>
 
 <br/>
@@ -40,15 +48,14 @@
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.isocalendar.svg" alt="contribution calendar"/>
   <img width="49%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.languages.svg" alt="most used languages"/>
+  <a href="https://github.com/AliRizaAynaci/gorl">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AliRizaAynaci&repo=gorl&theme=react&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&icon_color=3fb950&border_radius=6" alt="gorl"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.habits.svg" alt="coding habits"/>
-  <a href="https://github.com/AliRizaAynaci/gorl">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AliRizaAynaci&repo=gorl&theme=react&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&icon_color=3fb950&border_radius=6" alt="gorl"/>
-  </a>
+  <img width="70%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.isocalendar.svg" alt="contribution calendar"/>
 </div>
