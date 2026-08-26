@@ -34,7 +34,7 @@
 ## `~/stats`
 
 <div align="center">
-  <img width="100%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.overview.svg" alt="overview"/>
+  <img width="480" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.overview.svg" alt="overview"/>
 </div>
 
 <br/>

@@ -20,7 +20,6 @@ jobs:
           user: AliRizaAynaci
           filename: metrics.overview.svg
           base: header, activity, community, repositories
-          config_display: columns
           config_timezone: Europe/Istanbul
           extras_css: &theme |
             svg {
