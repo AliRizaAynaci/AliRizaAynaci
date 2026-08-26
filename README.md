@@ -25,15 +25,11 @@
   <img src="https://skillicons.dev/icons?i=go,kubernetes,aws,docker,linux,githubactions,prometheus,grafana&theme=dark&perline=8" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis,postgres,sqlite,git&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis,postgres,git&theme=dark&perline=8" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" height="34"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" height="34"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" height="34"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" alt="Fiber" height="34"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
