@@ -22,10 +22,15 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Europe/Istanbul
           extras_css: &theme |
-            svg { color: #8b949e; }
-            h1, h2, h3 { color: #58a6ff; }
+            svg {
+              font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+              background: #0d1117;
+              color: #8b949e;
+            }
+            h1, h2, h3 { color: #3fb950; }
             .field svg { fill: #8b949e; }
-            .field.language.details small, .gauge .title { color: #8b949e; }
+            .field.language.details small, .gauge .title, .h-details { color: #6e7681; }
+            .label { background-color: #3fb95020; color: #3fb950; }
 
       - name: isocalendar
         uses: lowlighter/metrics@latest
