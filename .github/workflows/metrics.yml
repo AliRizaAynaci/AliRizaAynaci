@@ -15,50 +15,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: languages
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: AliRizaAynaci
-          filename: metrics.languages.svg
-          base: ""
-          config_theme: dark
-          config_animations: no
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 6
-          plugin_languages_sections: most-used
-          plugin_languages_colors: github
+      - uses: actions/checkout@v4
 
-      - name: isocalendar
+      - name: calendar
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AliRizaAynaci
-          filename: metrics.isocalendar.svg
+          filename: metrics.calendar.svg
           base: ""
           config_theme: dark
+          config_padding: 0, 8
           config_animations: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-
-      - name: checkout
-        uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: debug repositoriesContributedTo
-        env:
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        run: |
-          gh api graphql -f query='
-          query {
-            user(login: "AliRizaAynaci") {
-              a: repositoriesContributedTo(contributionTypes: [COMMIT]) { totalCount }
-              b: repositoriesContributedTo(contributionTypes: [COMMIT], includeUserRepositories: true) { totalCount }
-              d: repositoriesContributedTo(includeUserRepositories: true) { totalCount }
-            }
-          }'
 
       - name: generate terminal card
         env:
@@ -77,3 +47,16 @@ jobs:
             git pull --rebase origin main
             git push origin HEAD:main
           fi
+
+      - name: top languages
+        run: |
+          curl -fsSL -o languages.svg \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizaAynaci&langs_count=6&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12&card_width=320"
+
+      - name: commit languages card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add languages.svg
+          git diff --staged --quiet || (git commit -m "chore: update languages card" && git push)

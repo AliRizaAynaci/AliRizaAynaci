@@ -72,7 +72,7 @@ def fetch():
         f"""
         query {{
           user(login: "{USER}") {{
-            repositoriesContributedTo(contributionTypes: [COMMIT], includeUserRepositories: true) {{ totalCount }}
+            repositoriesContributedTo(includeUserRepositories: true) {{ totalCount }}
             pullRequests {{ totalCount }}
             issues {{ totalCount }}
             issueComments {{ totalCount }}
@@ -91,7 +91,6 @@ def fetch():
 
     return {
         "name": user.get("name") or USER,
-        "uid": user["id"],
         "followers": user["followers"],
         "years": years,
         "contributed_repos": data["repositoriesContributedTo"]["totalCount"],
@@ -128,23 +127,30 @@ def line(text, color=FG, indent=0):
 
 def build_lines(d):
     bar = "#" * min(20, d["contributed_repos"])
-    return [
-        {"prompt": True, "cmd": "whoami"},
-        line(f'{esc(d["name"])}  registered={d["years"]}y, uid={d["uid"]}, gid=0'),
+
+    activity = [
+        (d["commits"], "commits"),
+        (d["reviews"], "pull requests reviewed"),
+        (d["prs"], "pull requests opened"),
+        (d["issues"], "issues opened"),
+        (d["issue_comments"], "issue comments"),
+    ]
+
+    lines = [
+        {"prompt": True, "cmd": "whoami && git status"},
+        line(f'{esc(d["name"])}  registered={d["years"]}y'),
         line(f'contributed to {d["contributed_repos"]} repositories {bar}', color=DIM, indent=1),
         line(f'followed by {d["followers"]} users', color=DIM, indent=1),
         line(""),
-        {"prompt": True, "cmd": "git status"},
         line("Recent activity", color=GREEN),
-        line(f'{d["commits"]} commits', indent=1),
-        line(f'{d["reviews"]} pull requests reviewed', indent=1),
-        line(f'{d["prs"]} pull requests opened', indent=1),
-        line(f'{d["issues"]} issues opened', indent=1),
-        line(f'{d["issue_comments"]} issue comments', indent=1),
+    ]
+    lines += [line(f'{value} {label}', indent=1) for value, label in activity if value > 0]
+    lines += [
         line(""),
         {"prompt": True, "cmd": f"cat {FEATURED_REPO}/STARS"},
         line(f'{FEATURED_REPO} ★ {d["repo_stars"]} stargazers · github.com/{USER}/{FEATURED_REPO}', color=CYAN),
     ]
+    return lines
 
 
 def render(lines):
