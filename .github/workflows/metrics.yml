@@ -18,10 +18,14 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AliRizaAynaci
-          filename: metrics.terminal.svg
-          template: terminal
+          filename: metrics.overview.svg
           base: header, activity, community, repositories
           config_timezone: Europe/Istanbul
+          extras_css: &theme |
+            svg { color: #8b949e; }
+            h1, h2, h3 { color: #58a6ff; }
+            .field svg { fill: #8b949e; }
+            .field.language.details small, .gauge .title { color: #8b949e; }
 
       - name: isocalendar
         uses: lowlighter/metrics@latest
@@ -30,9 +34,9 @@ jobs:
           user: AliRizaAynaci
           filename: metrics.isocalendar.svg
           base: ""
-          config_theme: dark
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          extras_css: *theme
 
       - name: languages
         uses: lowlighter/metrics@latest
@@ -41,7 +45,6 @@ jobs:
           user: AliRizaAynaci
           filename: metrics.languages.svg
           base: ""
-          config_theme: dark
           plugin_languages: yes
           plugin_languages_details: percentage, lines
           plugin_languages_limit: 8
@@ -49,6 +52,7 @@ jobs:
           plugin_languages_colors: github
           plugin_lines: yes
           plugin_lines_sections: base
+          extras_css: *theme
 
       - name: habits
         uses: lowlighter/metrics@latest
@@ -57,10 +61,10 @@ jobs:
           user: AliRizaAynaci
           filename: metrics.habits.svg
           base: ""
-          config_theme: dark
           config_timezone: Europe/Istanbul
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          extras_css: *theme

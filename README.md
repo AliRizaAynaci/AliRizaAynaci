@@ -35,20 +35,57 @@
 
 <br/>
 
+<!-- ───────────────────────────  FEATURED WORK  ──────────────────────────── -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AliRizaAynaci/gorl">gorl</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/AliRizaAynaci/gorl?style=flat-square&color=58a6ff&labelColor=0d1117" alt="stars"/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+      </p>
+      <p>Modular rate limiting library for Go. Fixed &amp; sliding window, token and leaky bucket, with in-memory and Redis backends.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AliRizaAynaci/rlaas">rlaas</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/AliRizaAynaci/rlaas?style=flat-square&color=58a6ff&labelColor=0d1117" alt="stars"/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+      </p>
+      <p>Rate limiting as a service. Per-project API keys, per-endpoint rules, and Redis sharding for low-latency decisions at scale.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AliRizaAynaci/liftio-backend">liftio-backend</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      </p>
+      <p>Public demo of the Liftio product backend — core API structure, Dockerized setup, and a production-style engineering approach.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AliRizaAynaci/lsm-db">lsm-db</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+      </p>
+      <p>An LSM-tree storage engine written from scratch, exploring how write-optimized databases are built underneath.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- ─────────────────────────────  GITHUB STATS  ──────────────────────────── -->
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> &nbsp;GitHub Stats
 
 <div align="center">
-
-```console
-aynaci@github:~$ ./metrics --user AliRizaAynaci --refresh daily
-```
-
-</div>
-
-<div align="center">
-  <img width="80%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.terminal.svg" alt="overview"/>
+  <img width="80%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.overview.svg" alt="overview"/>
 </div>
 
 <br/>
@@ -62,12 +99,4 @@ aynaci@github:~$ ./metrics --user AliRizaAynaci --refresh daily
 
 <div align="center">
   <img width="60%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.habits.svg" alt="coding habits"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>
-    <code>metrics.*.svg</code> dosyaları <a href="https://github.com/AliRizaAynaci/AliRizaAynaci/actions">GitHub Actions</a> ile her gün 06:00 (TR) yeniden üretilir.
-  </sub>
 </div>
