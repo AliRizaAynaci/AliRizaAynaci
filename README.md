@@ -1,47 +1,74 @@
+
 <div align="center">
 
 # Ali Rıza Aynacı
 
 **Computer Engineering Student · Backend & Cloud-Native Engineering**
 
-`Go` · `Kubernetes` · `Cloud Infrastructure` · `Distributed Systems`
+<br/>
 
 <a href="https://www.linkedin.com/in/alirizaaynaci/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="24"/>
 </a>
+&nbsp;
 <a href="mailto:aynacialiriza@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="24"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────  TECH STACK  ───────────────────────────── -->
+<h2 align="center">Tech Stack</h2>
 
-## Tech Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,kubernetes,aws,docker,linux,githubactions,prometheus,grafana&theme=dark&perline=8" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis,postgres,git&theme=dark&perline=8" />
+<strong>Backend &amp; Distributed Systems</strong>
+<br/><br/>
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=golang,fiber,grpc,postgresql,redis,kafka,rabbitmq&theme=dark" height="64" alt="Go, Fiber, gRPC, PostgreSQL, Redis, Kafka, RabbitMQ"/>
+<br/>
+<sub>Go · Fiber · gRPC · PostgreSQL · Redis · Kafka · RabbitMQ</sub>
+
+<br/><br/>
+
+<strong>Cloud &amp; Platform Engineering</strong>
+<br/><br/>
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=aws,kubernetes,docker,helm,argocd,linux,git,githubactions&theme=dark" height="64" alt="AWS, Kubernetes, Docker, Helm, Argo CD, Linux, Git, GitHub Actions"/>
+<br/>
+<sub>AWS · Kubernetes · Docker · Helm · Argo CD · Linux · Git · GitHub Actions</sub>
+
+<br/><br/>
+
+<strong>Observability &amp; Monitoring</strong>
+<br/><br/>
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=prometheus,grafana&theme=dark" height="60" alt="Prometheus, Grafana"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/loki.svg" width="60" height="60" alt="Loki"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/alertmanager.svg" width="60" height="60" alt="Alertmanager"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" height="34"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" alt="Fiber" height="34"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" height="34"/>
-</p>
+<sub>Prometheus · Grafana · Loki · Alertmanager</sub>
+
+</div>
 
 <br/>
 
-<!-- ─────────────────────────────  LANGUAGES  ─────────────────────────── -->
-
-## Most Used Languages
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img width="60%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.languages.svg" alt="most used languages"/>
+
+<p>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=AliRizaAynaci&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="47%" src="https://github.com/AliRizaAynaci/AliRizaAynaci/raw/main/metrics.languages.svg" alt="Most Used Languages"/>
+</p>
+
+<a href="https://github.com/AliRizaAynaci?achievement=starstruck&tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png" width="54" align="middle" alt="Starstruck Bronze"/>
+</a>
+&nbsp;&nbsp;
+<strong>Starstruck</strong> · <img src="https://img.shields.io/badge/BRONZE-BA8C63?style=flat-square&logo=github&logoColor=white" alt="Bronze Achievement" height="22"/>
+
 </div>
