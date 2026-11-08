@@ -1,32 +1,21 @@
+<!-- Ali Rıza Aynacı • GitHub Profile -->
 
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Ali Rıza Aynacı" />
+  <img src="./assets/hero.svg" width="100%" alt="Ali Rıza Aynacı — Backend & Cloud-Native Engineering" />
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alirizaaynaci/">
-    <img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" height="27" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:aynacialiriza@gmail.com">
-    <img src="https://img.shields.io/badge/Email-212B3B?style=for-the-badge&logo=gmail&logoColor=white" height="27" alt="Email"/>
-  </a>
+  <a href="https://www.linkedin.com/in/alirizaaynaci/"><img src="./assets/linkedin-badge.svg" height="32" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:aynacialiriza@gmail.com"><img src="./assets/email-badge.svg" height="32" alt="Email" /></a>
 </p>
 
 <div align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Technology Stack"/>
+  <img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack" />
 </div>
 
-### GitHub Activity
+<br/>
 
-<p align="center">
-  <img src="./metrics.languages.svg" width="82%" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AliRizaAynaci?achievement=starstruck&tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png" width="53" alt="Starstruck"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Starstruck-BRONZE-BA8C63?style=flat-square&logo=github&logoColor=white" height="22" alt="Bronze"/>
-</p>
+<div align="center">
+  <img src="./assets/activity.svg" width="100%" alt="GitHub Activity: Contributions, repositories, stars and languages; refreshed every six hours" />
+</div>

@@ -1,0 +1,39 @@
+name: Update profile activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every 6 hours (UTC). GitHub may delay scheduled jobs.
+    - cron: '15 */6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate live activity SVG
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_activity.py
+
+      - name: Commit changed SVG
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/activity.svg
+          if ! git diff --staged --quiet; then
+            git commit -m 'chore: refresh profile activity dashboard'
+            git push
+          fi

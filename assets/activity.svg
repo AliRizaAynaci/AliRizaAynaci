@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="205" viewBox="0 0 920 205" role="img" aria-label="GitHub activity dashboard will be generated on the first workflow run">
+ <defs><linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111C2C"/><stop offset="1" stop-color="#0C131E"/></linearGradient></defs>
+ <rect x="1" y="1" width="918" height="203" rx="15" fill="url(#p)" stroke="#334154"/>
+ <rect x="30" y="28" width="4" height="30" rx="2" fill="#3196F8"/>
+ <text x="50" y="52" font-family="Arial,sans-serif" font-size="23" font-weight="750" fill="#F1F5FC">GitHub Activity</text>
+ <text x="887" y="49" text-anchor="end" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#7E95B3">AUTO-UPDATED  ·  EVERY 6 HOURS</text>
+ <rect x="30" y="81" width="860" height="92" rx="12" fill="#141F2F" stroke="#304259"/>
+ <text x="460" y="119" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#F4F8FF">Ready to load your live GitHub metrics</text>
+ <text x="460" y="146" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#9BB1CC">Actions  →  Update profile activity  →  Run workflow</text>
+</svg>
