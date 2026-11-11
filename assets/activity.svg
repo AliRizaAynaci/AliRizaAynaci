@@ -406,6 +406,7 @@
 <rect x="838.9" y="268.0" width="11.5" height="11.5" rx="2" fill="#1A2A3D"/>
 <rect x="838.9" y="281.7" width="11.5" height="11.5" rx="2" fill="#146A76"/>
 <rect x="838.9" y="295.4" width="11.5" height="11.5" rx="2" fill="#1A2A3D"/>
+<rect x="838.9" y="309.1" width="11.5" height="11.5" rx="2" fill="#1A2A3D"/>
 <text x="692" y="371" font-size="10" font-weight="500" font-family="Arial,Helvetica,sans-serif" fill="#8095B1">Less</text>
 <rect x="726" y="362" width="12" height="12" rx="2" fill="#1A2A3D"/>
 <rect x="743" y="362" width="12" height="12" rx="2" fill="#173F54"/>
@@ -431,5 +432,5 @@
 <text x="573" y="455" font-size="13" font-weight="600" font-family="Arial,Helvetica,sans-serif" fill="#CDD9E9">HTML 6%</text>
 <rect x="728" y="446" width="10" height="10" rx="5" fill="#65748E"/>
 <text x="745" y="455" font-size="13" font-weight="600" font-family="Arial,Helvetica,sans-serif" fill="#CDD9E9">Others 27%</text>
-<text x="884" y="478" font-size="10" font-weight="500" font-family="Arial,Helvetica,sans-serif" fill="#7286A2" text-anchor="end">Updated 10 Nov 2026, 19:40 UTC</text>
+<text x="884" y="478" font-size="10" font-weight="500" font-family="Arial,Helvetica,sans-serif" fill="#7286A2" text-anchor="end">Updated 11 Nov 2026, 06:06 UTC</text>
 </svg>
